@@ -31,8 +31,6 @@ class Utilities:NSObject{
 		vc.present(alert, animated: true, completion: nil)
 	}
 	
-	
-	
 }
 
 
